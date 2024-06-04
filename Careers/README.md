@@ -4,9 +4,8 @@ This directory contains custom career mods for The Sims 4. Each career mod has i
 
 ## Available Careers
 
-- [Fashion Student Mod](career1/career1_description.md): Brief description of Career 1.
-- [WNBA/NBA Mod](career2/career2_description.md): Brief description of Career 2.
-- [Fashion Designer Mod](career2/career2_description.md): Brief description of Career 2.
+- [Fashion Designer Mod](https://github.com/ToluOlorode/Sims4Mods/blob/main/Careers/Fashion%20Designer/Career_description.md): Fulfill your Sims creative desires and become a Fashion Designer.
+- [WNBA/NBA Mod](career2/career2_description.md): Have your Sim become the best they can with the WNBA/NBA Mod
 
 ## Installation
 
