@@ -28,11 +28,11 @@ This project aims to bring a fresh experience to The Sims 4 by developing mods t
 
 To install the mods, follow these steps:
 
-1. **Download the Mod Files**: Clone this repository or download from Patreon.
+1. **Download the Mod Files**: Clone this repository or 
    ```sh
    git clone https://github.com/yourusername/sims4-mods.git
    ```
-   Or download the [latest release](https://github.com/yourusername/sims4-mods/releases).
+   Or download from [patreon](https://www.patreon.com/Danitysimmer).
 
 2. **Extract the Files**: If you downloaded the zip file, extract it to a folder of your choice.
 
